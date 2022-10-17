@@ -8,4 +8,4 @@
 - npm install react-icons --save
 - npm install axios
 - npm i react-google-recaptcha
-- npm i react-facebook-login
+- npm install react react-dom react-facebook-login --save --force
